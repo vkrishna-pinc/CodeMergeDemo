@@ -11,6 +11,7 @@ namespace Premier.API
     public class ClassTwo
     {
         public string ID { get; set; }
+        public string Value { get; set; }
     }
 }
     
