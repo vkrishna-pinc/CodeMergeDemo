@@ -12,6 +12,7 @@ namespace Premier.API
     {
         public string ID { get; set; }
         public string Value { get; set; }
+        public string Task1 { get; set; }
     }
 }
     
